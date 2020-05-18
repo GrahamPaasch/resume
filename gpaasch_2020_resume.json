@@ -157,14 +157,14 @@
   ],
   "awards": [
     {
-      "date": "Expires on 26 September 2022",
+      "date": "Expires September 26th 2022",
       "awarder": "https://www.youracclaim.com/badges/76898b2e-b6d0-477e-a0df-840cee4e1903/linked_in_profile",
       "title": "CCNP Routing and Switching",
       "summary": "Professional level industry certification in routing and switching with Cisco gear."
     },
     {
       "title": "JNCIP-SP",
-      "date": "Expires on 14 September 2022",
+      "date": "Expires September 14th 2022",
       "awarder": "https://www.youracclaim.com/badges/288272cc-ba79-4aef-9108-460aa0274cd0/linked_in_profile",
       "summary": "Professional level industry certification for working with Juniper Service Provider gear."
     },
@@ -175,8 +175,8 @@
     },
     {
       "title": "Charter Champions Award",
-      "awarder": "Cisco Network Academy - May 2015",
-      "summary": "Recognized for finishing 18th place in the North American CCNA skills competition. I was recognized for the ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. In addition I was tested on the knowledge and skills to make connections to remote sites via a WAN, mitigate basic security threats, and understand the requirements for wireless network access."
+      "awarder": "Ahmed Belazi - Direct Manager",
+      "summary": "Recognized for saving months of work via Paramiko automation and for protecting the network via TACACS command set rules."
     }
   ],
   "sections": [
