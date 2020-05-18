@@ -6,13 +6,23 @@ with open('gpaasch_2020_resume.json') as f:
     resume = json.loads(f.read())
 
 document = docx.Document()
+align_center = docx.enum.text.WD_ALIGN_PARAGRAPH.CENTER
 
-paragraph = document.add_paragraph('Lorem ipsum dolor sit amet.')
-prior_paragraph = paragraph.insert_paragraph_before('Lorem ipsum')
+my_text = document.add_paragraph()
+my_text.alignment = align_center
+my_name_title = my_text.add_run(resume['basics']['name'] + '\n', 'Title Char')
 
-document.add_heading('The REAL meaning of the universe')
-document.add_heading('The role of dolphins', level=2)
+my_text.add_run(
+    resume['basics']['email']
+    + ' | '
+    + resume['basics']['phone']
+    + ' | '
+    + resume['basics']['website']
+    + ' | '
+    + resume['basics']['location']['address']
+    + '\n'
+)
 
-paragraph.style = 'List Bullet'
+my_text.add_run('--------------------------------------------------------------------------\n')
 
 document.save('gpaasch_2020_resume.docx')
