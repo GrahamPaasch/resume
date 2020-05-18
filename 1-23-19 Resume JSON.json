@@ -1,11 +1,11 @@
 {
   "selectedTemplate": 1,
   "headings": {
-    "education": "Education",
-    "projects": "Projects",
-    "work": "Professional Experience",
     "skills": "Skills",
     "awards": "Certification"
+    "work": "Professional Experience",
+    "education": "Education",
+    "projects": "Projects"
   },
   "basics": {
     "name": "Graham Paasch",
@@ -41,7 +41,7 @@
         "Entusiastic meeting of the challenges and concerns of clients.",
         "Empowering clients by integrating systems to improve production and provide support to Engineering.",
         "Develop CI/CD build pipeline and automation for developed applications.",
-        "Complete complex technical projects on time and cost effectively, within an Agile framework.",
+        "Complete complex technical projects on time and within cost effectively, within an Agile framework.",
         "Working well in a team while contributing to multiple objectives.",
         "Passionate about improving client business experiences through innovative upgrades.",
         "Experience with network engineering and software development.",
