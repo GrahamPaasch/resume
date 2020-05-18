@@ -1,0 +1,191 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills",
+    "awards": "Certification",
+    "work": "Professional Experience",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Graham Paasch",
+    "email": "grahampaasch@gmail.com",
+    "phone": "6085729697",
+    "website": "blog.grahampaasch.com",
+    "location": {
+      "address": "Austin, TX"
+    }
+  },
+  "education": [
+    {
+      "location": "Madison, WI",
+      "area": "| IT - Network Specialist",
+      "startDate": "Sept 2013",
+      "endDate": "May 2015",
+      "gpa": "3.932",
+      "institution": "Madison Area Technical College",
+      "studyType": "Associates Degree in Applied Science"
+    }
+  ],
+  "work": [
+    {
+      "company": "Spectrum Enterprise",
+      "location": "Austin, TX",
+      "position": "Network Developer II",
+      "website": "",
+      "startDate": "August 2019",
+      "endDate": "Present",
+      "highlights": [
+        "Ensuring efficient and reliable network orchestration, virtualization and automation platforms.",
+        "Deep understanding of Spectrum Enterprise systems and needs.",
+        "Entusiastic meeting of the challenges and concerns of clients.",
+        "Empowering clients by integrating systems to improve production and provide support to Engineering.",
+        "Develop CI/CD build pipeline and automation for developed applications.",
+        "Complete complex technical projects on time and within cost effectively, within an Agile framework.",
+        "Working well in a team while contributing to multiple objectives.",
+        "Passionate about improving client business experiences through innovative upgrades.",
+        "Experience with network engineering and software development.",
+        "Collaborative working to accomplish projects."
+      ]
+    },
+    {
+      "company": "Spectrum Enterprise",
+      "location": "Austin, TX",
+      "position": "Network Engineer II",
+      "website": "",
+      "startDate": "July 2017",
+      "endDate": "August 2019",
+      "highlights": [
+        "Prevented all trunking outages by designing and helping to configure command restrictions in Cisco ACS that require one additional command to be used in rare cases.",
+        "Produced automation on a Linux server that uses the Python paramiko and requests modules to update Cisco ACS through a REST API, and automatically apply AAA configuration to customer premise equipment.",
+        "Targeted a list of 32,867 devices using the Python paramiko and threading modules to update out of standard access list configuration on customer premise equipment, turning an immeasurable amount of manual work into a fully completed project in a manner of hours, and allowing contracted employees access to a greater share of approved projects.",
+        "Collaborated using Git and GitLab to contribute to the development of web based JavaScript forms that allow users to generate consistent and accurate network device configuration.",
+        "Trains and coaches peers to be more safe and comfortable on the network, reinforcing simple strategies such as pre-preparing configuration, double checking before a commit, and aborting unintended changes.",
+        "Works creatively to re-establish remote connectivity to devices with various issues, using a solid knowledge base of fundamental networking concepts such as ARP, packet structure, TACACS failover, default gateways, vlans, and management configuration.",
+        "Daily manual provisioning of production equipment using the command line interface.",
+        "Configuration and troubleshooting of Metro Ethernet Forum (MEF) services.",
+        "Troubleshooting of complex network technologies such as MPLS, ethernet cfm, and layer 2 VPNs.",
+        "Experience with all kinds of equipment vendors such as Juniper, Cisco, Alcatel, Telco, Rad, ADVA, and Extreme. Ability to quickly learn brand new systems."
+      ]
+    },
+    {
+      "highlights": [
+        "Developed and produced Visio automation using Python. Helped make it a server side application by using PHP to parse JSON payloads. Worked on an API to deliver drawings in a vsdx format.",
+        "Designed and coordinated the turn-up of a provider edge modular router, including specification of the appropriate cards and optics.",
+        "Worked with Extreme Networks tech support to recover a bug inflicted core router. Was able to reboot the device using its failover capabilities, resolving the bug fully, and not losing any traffic.",
+        "Invented a new method for changing the OS on a networking device where I had no prior experience or training. It was determined by an experienced Network Engineer that the device could not be downgraded in-band, but using my fundamental knowledge of linux file systems and common device boot up procedures, I was able to devise a method for the device to boot up to a starting configuration that maintains the in-band management settings.",
+        "Provided top tier internal customer service to on-site network technicians who work one on one with customers. I applied the final configuration, changed the OS version as needed, set up and tore down testing circuits, and taught technicians how to use handheld RFC2544 testing units despite never having used one myself. I did this on the phone with technicians from all over North America. I often received around 16 calls a day, varying from simple internal customer service needs, to high level technical troubleshooting of all kinds of fiber services.",
+        "Exposure to and experience with advanced networking protocols such as MP-BGP, MPLS, QoS, IS-IS, and OSPF.",
+        "Exposure to and experience with enterprise monitoring systems such as SevOne, Solar Winds, and Splunk.",
+        "One on one collaboration with high level engineers for advanced troubleshooting.",
+        "Worked closely with boundary partner teams, such as IP Management.",
+        "Provided top tier external and internal customer service to project managers and sometimes customers. Needed to give project updates and explanations for delays."
+      ],
+      "company": "Charter Communications",
+      "position": "Network Specialist I",
+      "location": "Madison, WI",
+      "startDate": "May 2015",
+      "endDate": "July 2017"
+    },
+    {
+      "highlights": [
+        "Helped struggling students succeed and become top performers in the classroom.",
+        "Helped curious and enterprising students go above and beyond, learning advanced topics relevant to the current course and to advanced courses later on.",
+        "Helped students prepare for the CCNA Routing and Switching exam. Taught the magic number method for subnetting, and self created methods for how to draw out subnetting charts.",
+        "Demonstrated advanced understanding of network equipment configuration, inspired students by showing how to quickly and simply accomplish tasks considered difficult and time consuming. Demonstrated tricks in Notepad++, and how to use portfast and vtp to set up a lab environment quickly. Began study of beginning NetDevOps concepts, especially Python automation.",
+        "Was one of the highest achieving students in the history of the program. Passed every Cisco NetAcad practice exam, earning vouchers for the ICND1 and ICND2. Passed each exam at the end of each year. Participated in the North American Cisco NetRiders competition and placed 18th out of hundreds of participants. I passed two NetRiders specific versions of the CCNA exam, achieving the 6th highest score on the second exam. In front of a panel of judges from Cisco Systems over WebEx, I gave a professional presentation about how to scale up a network topology to meet increasing bandwidth demands.",
+        "Passed the CCNP switch exam while still enrolled in the CCNA academy.",
+        "Studied wireless controllers, access points, network design, and other wireless concepts and technologies as part of my advanced networking course and participation in NetRiders.",
+        "Studied security extensively as part of participation in extracurricular network security challenges such as the Collegiate Cyber Defense Competition and the National Cyber League. Learned how to exploit and how to protect against common vulnerabilities.",
+        "Developed a strong intrinsic motivation for learning computer technologies through a sense of belonging with a community in love with computer technology. I continue to use my free time to study for certifications and build tools such as a publicly available hosted musical instrument simulator. (mbira.duckdns.org)",
+        "Encouraged the growth, success, and confidence of students. Helped them believe that computer science and engineering is an appropriate career choice within their means given dedicated study and experience. Taught them advanced study techniques such as the liefner flashcard method, and the pomodoro work/break technique. Encouraged them to focus on subject matter, and not perceived learning inadequacies. Helped absolve learned helplessness and develop growth mindsets."
+      ],
+      "company": "Madison Area Technical College",
+      "position": "Student Help - Tutor - Supplemental Instructor",
+      "location": "Madison, WI",
+      "startDate": "Sept 2014",
+      "endDate": "May 2015"
+    },
+    {
+      "highlights": [
+        "Worked intake for damaged hard drives, video recorded the labeling and inventory process to ensure that no damage was caused by shipping, or the intake process itself.",
+        "Filled out important information to help the marketing team form relationships with existing and new customers seeking closer affiliation. I was personally thanked by a member of marketing for the optimization my fine attention to detail had afforded.",
+        "Checked hard drive platters for damage such as scoring or dust.",
+        "Archived replacement parts, responsible for ensuring that old hard drives were kept on file so that new parts could be salvaged, saving shipping time and money.",
+        "Delivered external customer service by writing out emails detailing how much data was able to be recovered, and what the next appropriate steps are in order to complete the recovery process.",
+        "Soldered new circuit boards and read/write assembly instruction chips onto broken hard drives so that data can be recovered.",
+        "Helped to run the data recovery software, while monitoring the hardware health.",
+        "Cleaned hard drives in order to guarantee a zero particle environment.",
+        "Gained exposure to professional data and hexadecimal forensic analysis.",
+        "Opened up hard drives, cleaned platters, replaced arm assemblies, replaced other mechanical components. Ran linux software to zeroize recovery hard drives in order to protect confidential customer data."
+      ],
+      "company": "Gillware Data Recovery",
+      "position": "Data Recovery Intern",
+      "location": "Madison, WI",
+      "startDate": "May 2014",
+      "endDate": "August 2014"
+    }
+  ],
+  "skills": [
+    {
+      "name": "NetDevOps",
+      "level": "",
+      "keywords": [
+        "Python",
+        "REST APIs",
+        "JSON/XML/YAML",
+        "Linux",
+        "Git",
+        "Netconf"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mbira Simulator",
+      "description": "A musical tool that helps you learn to play the Mbira, by allowing you to play along with the music and notate songs.",
+      "url": "https://github.com/GrahamPaasch?tab=repositories",
+      "keywords": [
+        "Apache",
+        "JavaScript",
+        "Canvas",
+        "Python",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "date": "Expires September 26th 2022",
+      "awarder": "https://www.youracclaim.com/badges/76898b2e-b6d0-477e-a0df-840cee4e1903/linked_in_profile",
+      "title": "CCNP Routing and Switching",
+      "summary": "Professional level industry certification in routing and switching with Cisco gear."
+    },
+    {
+      "title": "JNCIP-SP",
+      "date": "Expires September 14th 2022",
+      "awarder": "https://www.youracclaim.com/badges/288272cc-ba79-4aef-9108-460aa0274cd0/linked_in_profile",
+      "summary": "Professional level industry certification for working with Juniper Service Provider gear."
+    },
+    {
+      "title": "Top Talent Certificate of Achievement - NetRiders",
+      "awarder": "Cisco Network Academy - May 2015",
+      "summary": "Recognized for finishing 18th place in the North American CCNA skills competition. I was recognized for the ability to install, configure, operate, and troubleshoot medium-size routed and switched networks. In addition I was tested on the knowledge and skills to make connections to remote sites via a WAN, mitigate basic security threats, and understand the requirements for wireless network access."
+    },
+    {
+      "title": "Charter Champions Award",
+      "awarder": "Ahmed Belazi - Direct Manager",
+      "summary": "Recognized for saving months of work via Paramiko automation and for protecting the network via TACACS command set rules."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "awards",
+    "work",
+    "education",
+    "projects"
+  ]
+}
