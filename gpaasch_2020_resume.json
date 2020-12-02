@@ -29,12 +29,32 @@
   ],
   "work": [
     {
+      "company": "E-TEAM",
+      "location": "REMOTE",
+      "position": "Software Engineering Support Analyst IV",
+      "website": "",
+      "startDate": "June 2020",
+      "endDate": "Present",
+      "highlights": [
+        "Agile Development, including defining epics, features, user stories, tasks and participating in Agile and Scrum practices.",
+        "Senior Level in networking.",
+        "Programming in Python.",
+        "Mellanox, Dell, and Aruba multilayer switches.",
+        "Contributing to design and architect discussions for scalable network topologies.",
+        "Installing Linux VMs.",
+        "Contributing to network capacity planning, throughput, performance, and scale diagnostics and troubleshooting discussions.",
+        "Cooperative development environment, both within and across teams, using GIT and Bitbucket.",
+        "Troubleshooting network triage issues layers 2 through 7.",
+        "Datacenter style network designs."
+      ]
+    },
+    {
       "company": "Spectrum Enterprise",
       "location": "Austin, TX",
       "position": "Network Developer II",
       "website": "",
       "startDate": "August 2019",
-      "endDate": "Present",
+      "endDate": "June 2020",
       "highlights": [
         "Ensuring efficient and reliable network orchestration, virtualization and automation platforms.",
         "Deep understanding of Spectrum Enterprise systems and needs.",
@@ -142,16 +162,16 @@
   ],
   "projects": [
     {
-      "name": "Mbira Simulator",
-      "description": "A musical tool that helps you learn to play the Mbira, by allowing you to play along with the music and notate songs.",
-      "url": "https://github.com/GrahamPaasch?tab=repositories",
+      "name": "Graham's Network Lessons",
+      "description": "A YouTube channel that makes public my study for the JNCIE-SP exam.",
+      "url": "https://www.youtube.com/channel/UCg3oUjrSYcqsL9rGk1g_lPQ",
       "keywords": [
-        "Apache",
-        "JavaScript",
-        "Canvas",
+        "Juniper",
         "Python",
-        "HTML",
-        "CSS"
+        "Wireshark",
+        "BGP",
+        "MPLS",
+        "VPN"
       ]
     }
   ],
