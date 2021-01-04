@@ -27,8 +27,8 @@ contact_info.paragraph_format.space_after = length_in_points(0)
 
 certification = document.add_paragraph()
 certification.alignment = align_left
-certification.add_run(resume['awards'][0]['title'] + '\n')
-certification.add_run(resume['awards'][1]['title'] + '\n')
+for award in resume['awards']:
+    certification.add_run(award['title'] + '\n')
 certification.add_run('- ' * length_of_dashes)
 certification.paragraph_format.space_before = length_in_points(0)
 
