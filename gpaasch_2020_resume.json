@@ -202,10 +202,10 @@
   "sections": [
     "templates",
     "profile",
-    "skills",
+    "projects",
     "awards",
+    "skills",
     "work",
-    "education",
-    "projects"
+    "education"
   ]
 }
