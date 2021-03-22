@@ -177,14 +177,14 @@
   ],
   "awards": [
     {
-      "date": "Expires September 26th 2022",
+      "date": "--------------------------------- Expires September 26th 2022",
       "awarder": "https://www.youracclaim.com/badges/76898b2e-b6d0-477e-a0df-840cee4e1903/linked_in_profile",
       "title": "CCNP Routing and Switching",
       "summary": "Professional level industry certification in routing and switching with Cisco gear."
     },
     {
       "title": "JNCIP-SP",
-      "date": "Expires September 14th 2022",
+      "date": "--------------------------------- Expires September 14th 2022",
       "awarder": "https://www.youracclaim.com/badges/288272cc-ba79-4aef-9108-460aa0274cd0/linked_in_profile",
       "summary": "Professional level industry certification for working with Juniper Service Provider gear."
     },
@@ -204,8 +204,8 @@
     "profile",
     "projects",
     "awards",
-    "skills",
     "work",
+    "skills",
     "education"
   ]
 }
