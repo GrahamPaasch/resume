@@ -1,0 +1,3 @@
+Please provide us with 3-4 examples highlighting your most technical accomplishments, using metrics to display the impact (for example: money or time saved). Each bullet should be very concise—no longer than 3-4 sentences each but should capture the problem, solution, and result. We recommend starting with an action word (designed, led, built, promoted, launched, created, etc.) *
+
+Please provide a short description of a system/design you are most proud of and worked on from start to finish. Please include your role, the motivation, technical details, challenges, duration, and lessons learned.
