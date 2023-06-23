@@ -1,0 +1,21 @@
+Graham Paasch | United States | 6086204651 | grahampaasch@gmail.com
+
+Summary:
+Experienced and CCNP network engineer (expired) with over 7 years of experience in implementing and managing large-scale Cisco and non-Cisco networks. Strong knowledge of Cisco IOS and experience with ASA Firewalls. Highly skilled in linking network devices to VMWare and familiar with various hardware and protocols including TCP/IP, BGP, VRRP, and MPLS. Looking for a full-time remote senior network engineer position.
+
+Education:
+Associates Degree in Applied Science, Madison Area Technical College, 2015
+Cisco CCNP Route/Switch Certification, First Earned: September 07 2016, Expired: September 26 2022
+
+Technical Skills:
+Cisco: LAN/WAN, ASR Router, Catalyst Switches, and IOS
+Meraki: wireless infrastructure
+Firewalls: ASA, Palo Alto
+Networking Hardware: Switches, Routers, Hubs, and load-balancers
+Networking Protocols: TCP/IP, Layer 3, Layer 2, DNS, QoS, BGP, VRRP, HSRP, Spanning-Tree, VLAN, and MPLS
+
+Experience with VMWare and Linux KVM
+
+Projects:
+Grahams Network Lessons YouTube Channel:
+https://www.youtube.com/watch?v=q_HfTQAcYEM

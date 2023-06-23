@@ -1,0 +1,27 @@
+Graham Paasch | Experienced Technology Professional | 6085729697 | grahampaasch@gmail.com
+
+Objective:
+
+To support the design, deployment, and operations of a large-scale global Oracle cloud computing environment (Oracle Cloud Infrastructure - OCI), through a combination of deep understanding of networking at the protocol level and programming skills, while developing and executing network change and providing break-fix support.
+
+Skills & Qualifications:
+
+• Expert understanding of networking protocols, with experience in network build and/or upgrade projects and developing standalone features 
+• Ability to develop and safely execute network change, including developing new procedures and tools as needed 
+• Proven ability to mentor junior engineers 
+• Extensive experience in network solution and architecture design process 
+• Knowledge of scripting to automate routine tasks for team and business unit 
+• Proficient in software development projects for network automation 
+• Familiarity with software bug fixes and working with network vendor technical account teams
+• Ability to coordinate with networking automation services for the development and integration of support tooling
+• Experienced in providing break-fix support for events and leading post-event root cause analysis
+
+Projects:
+• Graham's Network Lessons YouTube Channel
+• JPR-961 Video Series (JNCIE-SP)
+• Mastering Python Networking Video Series: 
+    https://www.youtube.com/watch?v=Ygz2OT7oClE&list=PLYYsGDln_GC9yCne_YnmblCThD--AGkt5
+• Python Do512 Calendar Reordering Video Series
+    https://www.youtube.com/watch?v=sNz6Xam0q5k&list=PLYYsGDln_GC9M-yTfQ71_tYpbRbj--wRF
+• BGP RFC 4271 Erata Report:
+    https://www.rfc-editor.org/errata/eid6498
