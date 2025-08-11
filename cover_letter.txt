@@ -1,0 +1,27 @@
+Graham Paasch  
+Austin, TX • (608) 620-4651 • grahampaasch@gmail.com  
+
+April 29, 2025  
+
+Hiring Manager  
+Milbank LLP  
+
+Dear Hiring Manager,
+
+I am excited to apply for the Senior Network Engineer position at Milbank LLP. With over ten years of hands-on experience in ISP, enterprise, and data-center environments—coupled with deep expertise in Juniper, Cisco ACI fabrics, and Python automation—I am confident in my ability to design, implement, and maintain the resilient global network infrastructure your team requires .
+
+At Insight Global (contracted to Google Fiber), I led development of a PyATS automation framework for a complex fiber-to-home lab network, integrating Juniper MX/SRX and Nokia GPON technologies to streamline testing and deployment. In my role at Hewlett Packard Enterprise, I architected and optimized the management network for a Cray Shasta supercomputer cluster—eliminating spanning-tree loops through a star-topology redesign and automating configuration generation via Python scripts, preventing research downtime during critical hardware shortages.
+
+My Cisco background aligns directly with Milbank’s requirements:  
+- **Routing & Switching**: BGP, EIGRP, OSPF, MPLS, LDP, VXLAN/EVPN on Catalyst, Nexus, and ASR platforms.  
+- **ACI & SD-WAN**: ACI underlay/overlay (40 CE credits), lab experience with Cisco Viptela SD-WAN.  
+- **Security & VPNs**: Palo Alto NGFW, F5 BIG-IP, DMVPN/IPsec, RADIUS/TACACS+.  
+
+Beyond technical proficiency, I’ve collaborated across “follow-the-sun” teams to resolve global incidents, authored clear documentation (Visio/Excel/Word), and delivered stakeholder presentations via Google Meet. My CCNP R&S certification and JNCIP-SP credentials further demonstrate my commitment to continuous learning and excellence.
+
+I am particularly drawn to Milbank’s distinguished reputation for supporting high-profile, complex transactions across multiple offices worldwide. I look forward to contributing my passion for robust network design, proactive performance monitoring, and seamless vendor coordination to ensure Milbank’s infrastructure remains secure, scalable, and aligned with your long-term technology roadmap.
+
+Thank you for considering my candidacy. I welcome the opportunity to discuss how my background and vision can support Milbank LLP’s mission and growth.
+
+Sincerely,  
+Graham Paasch

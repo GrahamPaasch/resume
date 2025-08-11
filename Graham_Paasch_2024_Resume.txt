@@ -1,0 +1,75 @@
+Graham Paasch
+Email: grahampaasch@gmail.com
+Phone: +16086204651
+LinkedIn: https://www.linkedin.com/in/grahampaasch/
+Github: https://github.com/GrahamPaasch
+YouTube: https://www.youtube.com/@techyesplc
+
+Work Experience:
+
+Network Engineer III, Amazon
+Oct 2022 - Apr 2023 (6 months)
+• Technologies: AWS, Python, Bash, Linux, Postman, Visual Studio, Git, REST API
+• Managed AWS version control repositories using Python scripting.
+• Diagnosed and resolved complex network issues, utilizing deep IP networking knowledge.
+• Demonstrated expertise in BGP, OSPF, TCP, VPNs, network flow, and DNS.
+
+Network Administrator, ARM
+Jun 2022 - Oct 2022 (4 months)
+• Technologies: Confluence, Slack, Visual Studio, Cisco
+• Provided global network support, managing operational support and projects.
+• Monitored and resolved network incidents promptly, ensuring minimal downtime.
+• Collaborated in a follow-the-sun environment for seamless network operations.
+
+Senior Network Engineer, Hewlett Packard Enterprise
+Jun 2020 - Jun 2022 (2 years)
+• Technologies: JavaScript, Python, Bash, Excel, Confluence, Slack, Visual Studio, Git
+• Developed Python configuration generator, reducing implementation time.
+• Supported network capacity planning for Shasta Supercomputer.
+• Designed scalable network topologies and advocated for efficient solutions.
+
+Network Developer, Spectrum Enterprise (Charter Business)
+Aug 2019 - Jun 2020 (10 months)
+• Technologies: Docker, JavaScript, Python, Confluence, Visual Studio, Git, Cisco, REST API
+• Developed Python tool for auto provisioning Juniper and Cisco routers.
+• Implemented network automation for scale and predictability.
+• Led integration efforts for improved production and network engineering.
+
+Network Engineer, Spectrum Enterprise (Charter Business)
+Jul 2017 - Jun 2019 (1 year 11 months)
+• Technologies: Python, Bash, Linux, Salesforce, JIRA, Confluence, Cisco, REST API
+• Received Charter Champions award for outstanding performance.
+• Automated Access Control List configuration using Python paramiko and requests.
+• Implemented Python program for secure TACACS enabling on CPE.
+
+Network Specialist, Spectrum Enterprise (Charter Business)
+May 2015 - Jul 2017 (2 years 2 months)
+• Technologies: CSS, HTML, JavaScript, Python, Linux, Windows, Confluence, Cisco
+• Provided advanced troubleshooting and support to on-site network technicians.
+• Developed Python-based Visio automation for server-side applications.
+• Worked with various equipment and vendors across large ISP networks.
+
+Supplemental Instructor (Student Tutor), Madison Area Technical College
+Sep 2014 - May 2015 (8 months)
+• Technologies: SQL, Python, Linux, Postgres, Windows, Ubuntu, Cisco
+• Delivered supplemental instruction on advanced course materials.
+• Participated in North American Cisco NetRiders competition.
+• Provided mentorship and support to diverse student base.
+
+Data Recovery Intern, Gillware Data Recovery
+May 2014 - Aug 2014 (3 months)
+• Internship to complete Associate Degree in Applied Science.
+• Improved intake forms for enhanced customer relationships.
+• Performed operational tasks critical to Gillware's success.
+
+Education:
+Madison Area Technical College
+Associates Degree (3.9) IT Network Specialist
+
+Certification History:
+CCNP Routing and Switching
+JNCIP Service Provider
+LPI Linux Essentials
+
+About Me:
+Passionate about technology and continuous learning. YouTube channel: TechYes Public Learning Channel. Active in personal projects.
